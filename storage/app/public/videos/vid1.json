@@ -1,0 +1,7 @@
+{
+    "job_id": "vid1",
+    "story_slug": "test-slug",
+    "audio": "C:\\Users\\Rahulsingh\\aihindinews\\backend\\scripts/../storage/app/public/tts/smoke1.mp3",
+    "note": "ffmpeg not available or failed; placeholder stub",
+    "generated_at": "2026-05-19T11:02:51+02:00"
+}

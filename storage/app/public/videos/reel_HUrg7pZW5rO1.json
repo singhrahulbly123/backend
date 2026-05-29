@@ -1,0 +1,21 @@
+{
+    "job_id": "reel_HUrg7pZW5rO1",
+    "kind": "short_video_storyboard",
+    "generated_at": "2026-05-25 10:54:08",
+    "source_type": "daily_brief",
+    "source_id": 1,
+    "source_slug": "aaj-ka-ai-brief",
+    "platform": "instagram_reel",
+    "voice": "hi-IN-Standard-A",
+    "script_path": "public/videos/reel_HUrg7pZW5rO1.script.txt",
+    "subtitle_path": "public/videos/reel_HUrg7pZW5rO1.srt",
+    "options": {
+        "width": 1080,
+        "height": 1920,
+        "title": "Instagram Reel Daily Brief: Aaj ka AI Brief: 30 second me samjho",
+        "subtitle_path": "public/videos/reel_HUrg7pZW5rO1.srt",
+        "source_type": "daily_brief"
+    },
+    "script": "Daily AI Brief: Aaj ka AI Brief: 30 second me samjho.\n\nAI duniya ke useful updates, India impact, tool of the day, aur copy-ready prompts ek jagah.\n\nTop updates: AI tools ko Hindi creators ke workflow se jodne ka demand fast badh raha hai.; Prompt libraries repeat users aur long-tail SEO traffic ke liye strong asset ban sakti hain.; Tool reviews affiliate revenue aur AdSense RPM dono improve kar sakte hain..\n\nIndia impact: Hindi creators, job seekers, aur small businesses ke liye AI adoption fast ho raha hai. Daily practical guidance repeat traffic ka strong reason ban sakta hai.\n\nPrompts to try: Explain [TOPIC] in simple Hindi with examples.; Create 5 Instagram reel hooks for [TOPIC] in Hinglish..\n\nRead the complete daily brief on AI Hindi News.",
+    "note": "TTS is not configured or failed; storyboard package generated for manual voiceover/rendering."
+}

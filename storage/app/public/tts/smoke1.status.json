@@ -1,0 +1,7 @@
+{
+    "job_id": "smoke1",
+    "status": "completed",
+    "updated_at": "2026-05-19T11:02:45+02:00",
+    "audio_path": "public/tts/smoke1.mp3",
+    "note": "placeholder"
+}

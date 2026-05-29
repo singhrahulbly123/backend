@@ -1,0 +1,15 @@
+{
+    "job_id": "reel_HUrg7pZW5rO1",
+    "status": "completed",
+    "source_type": "daily_brief",
+    "source_id": 1,
+    "platform": "instagram_reel",
+    "updated_at": "2026-05-25 10:54:08",
+    "source_slug": "aaj-ka-ai-brief",
+    "voice": "hi-IN-Standard-A",
+    "script_path": "public/videos/reel_HUrg7pZW5rO1.script.txt",
+    "subtitle_path": "public/videos/reel_HUrg7pZW5rO1.srt",
+    "audio_path": null,
+    "output": "public/videos/reel_HUrg7pZW5rO1.json",
+    "output_type": "storyboard_json"
+}

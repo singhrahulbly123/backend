@@ -1,0 +1,7 @@
+{
+    "job_id": "vid1",
+    "status": "completed",
+    "updated_at": "2026-05-19T11:02:51+02:00",
+    "output": "public/videos/vid1.json",
+    "note": "stub"
+}
