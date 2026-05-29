@@ -1,0 +1,11 @@
+{
+  "title": "Test Article Published from Admin",
+  "locale": "hi",
+  "content_type": "news",
+  "excerpt": "यह टेस्ट आर्टिकल डैशबोर्ड से पब्लिश किया गया है।",
+  "body": "<p>यह परीक्षण के लिए बनाया गया आर्टिकल है।</p><p>यह स्थानीय admin पैनल से प्रकाशित किया गया।</p>",
+  "status": "published",
+  "featured_image": "https://via.placeholder.com/1200x628.png?text=AI+Hindi+News+Test",
+  "category_id": 1,
+  "is_featured": true
+}
